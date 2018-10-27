@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.playlistapp.MainActivity">
+
+    <TextView
+        android:id="@+id/current_playing"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@color/song_category"
+        android:text="Currently playing: " />
+    <TextView
+        android:id="@+id/current_Title"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@color/song_category"
+        android:text="title" />
+    <TextView
+        android:id="@+id/current_artist"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@color/song_category"
+        android:text="artist " />
+
+</LinearLayout>

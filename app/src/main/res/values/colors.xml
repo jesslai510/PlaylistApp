@@ -1,0 +1,15 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#11085d</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1f1b72</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#979797</color>
+
+    <!-- song background color -->
+    <color name="song_category">#606060</color>
+
+
+</resources>

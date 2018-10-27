@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">playlist</string>
+
+    <string name="song_category">Songs</string>
+
+    <string name="currently_playing">Currently Playing</string>
+
+</resources>
